@@ -3,6 +3,8 @@ Slurry Hub
 
 The Github for Home brewers.
 
+[![Build Status](https://secure.travis-ci.org/d1/SlurryHub.png?branch=master)](http://travis-ci.org/d1/SlurryHub)
+
 Lets Get Started
 ----------------
 
